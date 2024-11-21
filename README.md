@@ -1,4 +1,13 @@
-## Hi there 👋
+# Oie👋! Uma breve apresentação:
+
+print("Prazer em conhecê-lo!")
+
+nome= Júlia Evangelista de Oliveira
+ocupação= estudante 
+area= Técnico em Desenvolvimento de Sistemas
+contato= julia.evangelista.oliveira@outlook.com
+
+
 
 <!--
 **juliaeoliveira/juliaeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
