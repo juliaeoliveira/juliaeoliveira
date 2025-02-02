@@ -3,8 +3,11 @@
 print("Prazer em conhecê-lo!")
 
 nome= Júlia Evangelista de Oliveira
+
 ocupação= estudante 
+
 area= Técnico em Desenvolvimento de Sistemas
+
 contato= julia.evangelista.oliveira@outlook.com
 
 
